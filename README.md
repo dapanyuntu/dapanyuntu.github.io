@@ -62,3 +62,14 @@
 - **价格**：完全免费。
 
 大盘云图，为投资者打造更加高效的市场观察工具，让每一位用户都能快速掌握市场脉搏，助力投资决策更精准！
+
+
+## 大盘云图其他介绍地址：
+
+[大盘云图](https://dapanyuntu.github.io/dapanyuntu/)
+
+[大盘云图](https://dapanyuntu.github.io/yuntu/)
+
+[大盘云图](https://dapanyuntu.github.io/52etf.site/)
+
+[大盘云图](https://dapanyuntu.github.io/)
