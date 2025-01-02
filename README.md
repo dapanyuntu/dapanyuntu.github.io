@@ -67,6 +67,7 @@
 
 
 ## 大盘云图其他介绍地址：
+[大盘云图](https://dapanyuntu.github.io/yuntu/)
 
 [大盘云图](https://dapanyuntu.github.io/dapanyuntu/)
 
